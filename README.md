@@ -16,7 +16,7 @@ Aplicação que monitora e apresenta a situação dos bairros impactados pelas e
 
 1. Clone o repositório:
    ```bash
-   git clone <URL do Repositório>
+   git clone https://github.com/opedrogouveia/INUNDACOES_ENCHENTE.git
    ```
 2. Certifique-se de que você tem o Python instalado.
 3. Execute o script principal para gerar as análises:
