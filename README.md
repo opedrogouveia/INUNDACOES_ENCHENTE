@@ -1,7 +1,7 @@
 
 # Inundações e Enchentes
 
-Este projeto analisa dados relacionados a inundações e enchentes com o objetivo de identificar padrões e tendências. Ele utiliza Python para processar os dados e gerar insights relevantes, contribuindo para a compreensão do impacto desses eventos.
+Aplicação que monitora e apresenta a situação dos bairros impactados pelas enchentes no Rio Grande do Sul. Desenvolvida para fornecer uma visão clara e direta dos dados relacionados aos eventos, auxiliando na compreensão das áreas mais afetadas.
 
 ## Funcionalidades
 
